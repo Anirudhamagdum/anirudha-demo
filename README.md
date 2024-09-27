@@ -1,4 +1,4 @@
 # anirudha-demo
 This is my First Git Repository.
 <br>
-Author - Anirudha Magdum.
+Author - Anirudha Akash Magdum.
